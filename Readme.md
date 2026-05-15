@@ -1,4 +1,8 @@
 # Magneto Taurus Energy Engine
+## Project Alias: "Brother's Keeper"
+
+> *"Am I my brother's keeper? Yes, we are." — A public domain alternative to the hidden motor of John Galt.*
+
 
 ![Magneto Taurus Energy Blueprint](magneto-taurus-blueprint.png)
 
