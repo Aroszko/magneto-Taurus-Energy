@@ -1,5 +1,7 @@
 # Magneto Taurus Energy Engine
 
+![Magneto Taurus Energy Blueprint](magneto-taurus-blueprint.png)
+
 **Inventor:** Alexander Charles Roszko  
 **License:** CERN Open Hardware Licence (CERN-OHL-W) or MIT License  
 **Intent:** Permanent Public Domain / Open-Source Hardware Declaration & Defensive Publication
