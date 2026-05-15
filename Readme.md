@@ -39,3 +39,10 @@ This document constitutes a public, timestamped defensive publication. Under int
 
 No corporation, country, entity, individual, or group may claim novelty or request exclusive intellectual property rights or patents over the "Magneto Taurus Energy" system or its architectural subsets. This technology is permanently dedicated as a free, open-source gift to humanity for the restoration of Earth and the elimination of petrochemical dependence.
 
+## Philosophical Foundation: The Antidote to John Galt
+
+In the literature of industrial individualists (such as Ayn Rand’s *Atlas Shrugged*), the character John Galt invents a revolutionary electromagnetic motor capable of drawing infinite clean energy from the atmosphere. However, driven by a philosophy of absolute self-interest, Galt intentionally hides his engine away, using it as a weapon of leverage while letting the public infrastructure and the common populace collapse into ruin. He explicitly rejects the moral duty of being his "brother's keeper."
+
+The **Magneto Taurus Energy** engine—officially aliased here as **"Brother's Keeper"**—stands as the definitive, real-world antithesis to the motor of John Galt. 
+
+This engine was conceived out of love, partnership, and *Xabze* (the traditional code of cosmic balance, honor, and deep community responsibility). It is not a proprietary asset to be hidden away in a secret valley for corporate profit or personal leverage. It is a 100% open-source, public domain blueprint given freely to Mother Earth and all of humanity. By ensuring no company, entity, or individual can ever maintain proprietorship over this geometry, the "Brother's Keeper" engine proves that true technological breakthroughs belong to the collective survival of our species, ensuring we dismantle the petrochemical loops threatening our shared home.
